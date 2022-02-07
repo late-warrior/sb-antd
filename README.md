@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Web Playground Setup
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Contains the following tools - 
+
+* CRA for bootstrapping a React App
+* Storybook that showcases antd components
+* Cypress for running tests
 
 ## Available Scripts
 
