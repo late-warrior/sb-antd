@@ -1,6 +1,5 @@
-import { Button } from 'antd';
+import { Button } from "antd";
 
 export function RButton() {
-    return <Button type="primary"> RButton </Button>  
+  return <Button type="primary"> RButton </Button>;
 }
-

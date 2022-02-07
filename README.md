@@ -1,10 +1,10 @@
 # Web Playground Setup
 
-Contains the following tools - 
+Contains the following -
 
-* CRA for bootstrapping a React App
-* Storybook that showcases antd components
-* Cypress for running tests
+- CRA for bootstrapping a React App
+- Storybook that showcases antd components
+- Cypress for running tests
 
 ## Available Scripts
 
