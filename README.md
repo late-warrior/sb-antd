@@ -1,4 +1,4 @@
-# Web Playground Setup
+# Web Playground Setup ![antd version](https://img.shields.io/badge/antd-4.18.5-brightgreen) ![@storybook/react version](https://img.shields.io/badge/@storybook/react-6.4.18-brightgreen) ![cypress version](https://img.shields.io/badge/cypress-9.4.1-brightgreen)
 
 Contains the following -
 
